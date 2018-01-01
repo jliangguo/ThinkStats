@@ -1,4 +1,8 @@
 # vscode
 .vscode/
 
+# python
 *.pyc
+
+# jupyter notebook
+.ipynb_checkpoints/
